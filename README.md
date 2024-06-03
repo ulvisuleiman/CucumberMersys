@@ -1,0 +1,1 @@
+The Campus Mersys Testing Project is an automated testing suite dedicated to ensuring the reliability and functionality of the CampusMersys platform. It covers various features such as user registration, course management, assignment submissions, and more. The project is built using Java, Selenium WebDriver, Cucumber, TestNG, and other technologies
